@@ -1,0 +1,7 @@
+{
+  "name": "router-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
